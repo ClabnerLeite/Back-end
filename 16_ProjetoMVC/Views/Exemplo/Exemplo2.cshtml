@@ -1,0 +1,22 @@
+<h1> EX2</h1>
+<button class="btn btn-outline-info">Clicar aqui</button>
+@{
+    string nome ="Clebin";
+
+}
+<h1>Olá @nome</h1>
+<p>Hoje é @DateTime.Now.ToString(" ddd dd/MM/yyyy hh:mm")</p>
+
+@{
+    bool mostrarMensagem = true;
+    if (mostrarMensagem == true)
+    {
+        <p>Esta é uma mensagem que emtrou no if</p>
+    }
+
+    for (int i=1; i <= 10; i++)
+    {
+        int res = i*8;
+        <P>8 x @i = @res</P>
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\bin\Debug\net7.0\01_Hello_World.exe
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\bin\Debug\net7.0\01_Hello_World.deps.json
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\bin\Debug\net7.0\01_Hello_World.runtimeconfig.json
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\bin\Debug\net7.0\01_Hello_World.dll
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\bin\Debug\net7.0\01_Hello_World.pdb
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\01_Hello_World.csproj.AssemblyReference.cache
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\01_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\01_Hello_World.AssemblyInfoInputs.cache
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\01_Hello_World.AssemblyInfo.cs
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\01_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\01_Hello_World.dll
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\refint\01_Hello_World.dll
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\01_Hello_World.pdb
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\01_Hello_World.genruntimeconfig.cache
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Back-End\01_Hello_World\obj\Debug\net7.0\ref\01_Hello_World.dll

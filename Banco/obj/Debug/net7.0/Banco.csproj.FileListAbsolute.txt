@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\Banco.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\Banco.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\Banco.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\bin\Debug\net7.0\Banco.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\bin\Debug\net7.0\Banco.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\bin\Debug\net7.0\Banco.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\bin\Debug\net7.0\Banco.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\bin\Debug\net7.0\Banco.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\Banco.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\refint\Banco.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\Banco.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\Banco.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\Banco\obj\Debug\net7.0\ref\Banco.dll

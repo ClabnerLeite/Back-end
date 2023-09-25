@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\10_Metodos_Costrutores.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\10_Metodos_Costrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\10_Metodos_Costrutores.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\10_Metodos_Costrutores.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\10_Metodos_Costrutores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\bin\Debug\net7.0\10_Metodos_Costrutores.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\bin\Debug\net7.0\10_Metodos_Costrutores.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\bin\Debug\net7.0\10_Metodos_Costrutores.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\bin\Debug\net7.0\10_Metodos_Costrutores.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\bin\Debug\net7.0\10_Metodos_Costrutores.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\10_Metodos_Costrutores.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\refint\10_Metodos_Costrutores.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\10_Metodos_Costrutores.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\10_Metodos_Costrutores.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2semestre\back-end\10_Metodos_Costrutores\obj\Debug\net7.0\ref\10_Metodos_Costrutores.dll
